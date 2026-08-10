@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mayisoftcorp-ai-solutions-albany.vercel.app/sitemap.xml
